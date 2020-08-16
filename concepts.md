@@ -30,7 +30,9 @@ Variable values are accessed using dollar sign `$`
 NAME = "Prakalp Tiwari"
 echo $NAME
 ```
+
 </br>
+
 **Special Variables** </br>
 `$0` : The filename of the current script.</br>
 `$n` : Correspond to arguments with which the script was invoked. First argument is $1, second argument is $2 and so on. </br>
@@ -47,6 +49,7 @@ do
    echo $TOKEN
 done
 ```
+
 Sample output: 
 ```
 $./test.sh Prakalp Tiwari
