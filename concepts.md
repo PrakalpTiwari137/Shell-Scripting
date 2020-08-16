@@ -12,7 +12,9 @@ To execute the script:
 $./test.sh
 ```
 </br>
+
 ### Shell variables
+
 **Variable names** </br>
 By convention, unix shell variables will have names in UPPERCASE. </br></br>
 **Defining variables** </br>
