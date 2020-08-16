@@ -59,3 +59,20 @@ Second Parameter : Tiwari
 Prakalp
 Tiwari
 ```
+</br>
+
+### Shell arrays
+Simplest way of creating an array variable:
+```
+array_name[index]=value
+```
+
+**Accessing Array Values** </br>
+```
+${array_name[index]}
+```
+To access all the items in the array:
+```
+${array_name[*]}
+${array_name[@]}
+```
